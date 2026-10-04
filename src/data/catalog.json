@@ -1,0 +1,1060 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "sku": "B0JCVHNARE",
+      "name": "Men's Slim-Fit Crewneck T-Shirt",
+      "brand": "amazon-essentials",
+      "retailer": "amazon",
+      "type": "tops",
+      "gender": "men",
+      "color": "Navy",
+      "price": 14.9,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviews": 2242,
+      "tags": [
+        "casual",
+        "summer"
+      ],
+      "stock": {
+        "XS": 24,
+        "S": 12,
+        "M": 18,
+        "L": 3,
+        "XL": 0,
+        "XXL": 23
+      },
+      "url": "https://www.amazon.com/mens-slim-fit-crewneck-t-shirt/dp/B0JCVHNARE"
+    },
+    {
+      "id": "p002",
+      "sku": "B0GUJ83F4R",
+      "name": "Men's Water-Resistant Puffer Jacket",
+      "brand": "amazon-essentials",
+      "retailer": "amazon",
+      "type": "jackets",
+      "gender": "men",
+      "color": "Black",
+      "price": 54.9,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviews": 4001,
+      "tags": [
+        "winter"
+      ],
+      "stock": {
+        "XS": 0,
+        "S": 0,
+        "M": 20,
+        "L": 17,
+        "XL": 15,
+        "XXL": 18
+      },
+      "url": "https://www.amazon.com/mens-water-resistant-puffer-jacket/dp/B0GUJ83F4R"
+    },
+    {
+      "id": "p003",
+      "sku": "B0RDGRE2W3",
+      "name": "Women's Relaxed-Fit Linen Dress",
+      "brand": "amazon-essentials",
+      "retailer": "amazon",
+      "type": "dresses",
+      "gender": "women",
+      "color": "White",
+      "price": 32,
+      "currency": "USD",
+      "rating": 4,
+      "reviews": 1297,
+      "tags": [
+        "summer",
+        "casual"
+      ],
+      "stock": {
+        "XS": 6,
+        "S": 1,
+        "M": 9,
+        "L": 23,
+        "XL": 0,
+        "XXL": 14
+      },
+      "url": "https://www.amazon.com/womens-relaxed-fit-linen-dress/dp/B0RDGRE2W3"
+    },
+    {
+      "id": "p004",
+      "sku": "B0E9D73Q0L",
+      "name": "Men's Classic-Fit Chino Pant",
+      "brand": "amazon-essentials",
+      "retailer": "amazon",
+      "type": "pants",
+      "gender": "men",
+      "color": "Khaki",
+      "price": 27.5,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviews": 2828,
+      "tags": [
+        "casual",
+        "work"
+      ],
+      "stock": {
+        "XS": 0,
+        "S": 3,
+        "M": 15,
+        "L": 12,
+        "XL": 6,
+        "XXL": 22
+      },
+      "url": "https://www.amazon.com/mens-classic-fit-chino-pant/dp/B0E9D73Q0L"
+    },
+    {
+      "id": "p005",
+      "sku": "B04PFEUY9Q",
+      "name": "Levi's 511 Slim Fit Jeans",
+      "brand": "levis",
+      "retailer": "amazon",
+      "type": "pants",
+      "gender": "men",
+      "color": "Blue",
+      "price": 59.5,
+      "currency": "USD",
+      "rating": 4.2,
+      "reviews": 3403,
+      "tags": [
+        "denim",
+        "casual"
+      ],
+      "stock": {
+        "XS": 11,
+        "S": 0,
+        "M": 0,
+        "L": 24,
+        "XL": 5,
+        "XXL": 7
+      },
+      "url": "https://www.amazon.com/levis-511-slim-fit-jeans/dp/B04PFEUY9Q"
+    },
+    {
+      "id": "p006",
+      "sku": "B07GLUJPAY",
+      "name": "Levi's Trucker Denim Jacket",
+      "brand": "levis",
+      "retailer": "amazon",
+      "type": "jackets",
+      "gender": "men",
+      "color": "Blue",
+      "price": 89.5,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviews": 3839,
+      "tags": [
+        "denim",
+        "spring"
+      ],
+      "stock": {
+        "XS": 12,
+        "S": 15,
+        "M": 14,
+        "L": 6,
+        "XL": 11,
+        "XXL": 6
+      },
+      "url": "https://www.amazon.com/levis-trucker-denim-jacket/dp/B07GLUJPAY"
+    },
+    {
+      "id": "p007",
+      "sku": "B0V7AJUT89",
+      "name": "Nike Dri-FIT Running Tee",
+      "brand": "nike",
+      "retailer": "amazon",
+      "type": "tops",
+      "gender": "men",
+      "color": "Black",
+      "price": 30,
+      "currency": "USD",
+      "rating": 4.3,
+      "reviews": 1252,
+      "tags": [
+        "running",
+        "summer"
+      ],
+      "stock": {
+        "XS": 20,
+        "S": 14,
+        "M": 12,
+        "L": 7,
+        "XL": 24,
+        "XXL": 0
+      },
+      "url": "https://www.amazon.com/nike-dri-fit-running-tee/dp/B0V7AJUT89"
+    },
+    {
+      "id": "p008",
+      "sku": "B0XYRJ0TB4",
+      "name": "Levi's Women's 724 High-Rise Straight Jeans",
+      "brand": "levis",
+      "retailer": "amazon",
+      "type": "pants",
+      "gender": "women",
+      "color": "Blue",
+      "price": 69.5,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviews": 3028,
+      "tags": [
+        "denim"
+      ],
+      "stock": {
+        "XS": 22,
+        "S": 13,
+        "M": 24,
+        "L": 19,
+        "XL": 0,
+        "XXL": 15
+      },
+      "url": "https://www.amazon.com/levis-womens-724-high-rise-straight-jeans/dp/B0XYRJ0TB4"
+    },
+    {
+      "id": "p009",
+      "sku": "B0A7RMVVBP",
+      "name": "Women's Classic-Fit Oxford Shirt",
+      "brand": "amazon-essentials",
+      "retailer": "amazon",
+      "type": "tops",
+      "gender": "women",
+      "color": "White",
+      "price": 22.9,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviews": 1485,
+      "tags": [
+        "work"
+      ],
+      "stock": {
+        "XS": 2,
+        "S": 0,
+        "M": 0,
+        "L": 7,
+        "XL": 11,
+        "XXL": 17
+      },
+      "url": "https://www.amazon.com/womens-classic-fit-oxford-shirt/dp/B0A7RMVVBP"
+    },
+    {
+      "id": "p010",
+      "sku": "B0ZK75UY1W",
+      "name": "Uniqlo Ultra Light Down Jacket",
+      "brand": "uniqlo",
+      "retailer": "amazon",
+      "type": "jackets",
+      "gender": "unisex",
+      "color": "Olive",
+      "price": 69.9,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviews": 2962,
+      "tags": [
+        "winter",
+        "travel"
+      ],
+      "stock": {
+        "XS": 4,
+        "S": 3,
+        "M": 11,
+        "L": 16,
+        "XL": 7,
+        "XXL": 11
+      },
+      "url": "https://www.amazon.com/uniqlo-ultra-light-down-jacket/dp/B0ZK75UY1W"
+    },
+    {
+      "id": "p011",
+      "sku": "57085406",
+      "name": "Textured Knit Polo Shirt",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "tops",
+      "gender": "men",
+      "color": "Beige",
+      "price": 35.9,
+      "currency": "USD",
+      "rating": 4.2,
+      "reviews": 249,
+      "tags": [
+        "summer",
+        "casual"
+      ],
+      "stock": {
+        "XS": 17,
+        "S": 20,
+        "M": 20,
+        "L": 4,
+        "XL": 13,
+        "XXL": 1
+      },
+      "url": "https://www.zara.com/us/en/textured-knit-polo-shirt-p57085406.html"
+    },
+    {
+      "id": "p012",
+      "sku": "84526557",
+      "name": "Oversize Wool Blend Coat",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "jackets",
+      "gender": "men",
+      "color": "Grey",
+      "price": 149,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviews": 3910,
+      "tags": [
+        "winter"
+      ],
+      "stock": {
+        "XS": 10,
+        "S": 17,
+        "M": 3,
+        "L": 14,
+        "XL": 4,
+        "XXL": 0
+      },
+      "url": "https://www.zara.com/us/en/oversize-wool-blend-coat-p84526557.html"
+    },
+    {
+      "id": "p013",
+      "sku": "79037093",
+      "name": "Linen Blend Midi Dress",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "dresses",
+      "gender": "women",
+      "color": "Green",
+      "price": 59.9,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviews": 3087,
+      "tags": [
+        "summer"
+      ],
+      "stock": {
+        "XS": 0,
+        "S": 19,
+        "M": 21,
+        "L": 3,
+        "XL": 23,
+        "XXL": 14
+      },
+      "url": "https://www.zara.com/us/en/linen-blend-midi-dress-p79037093.html"
+    },
+    {
+      "id": "p014",
+      "sku": "78120201",
+      "name": "Satin Effect Slip Dress",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "dresses",
+      "gender": "women",
+      "color": "Black",
+      "price": 49.9,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviews": 961,
+      "tags": [
+        "evening"
+      ],
+      "stock": {
+        "XS": 19,
+        "S": 12,
+        "M": 6,
+        "L": 0,
+        "XL": 4,
+        "XXL": 17
+      },
+      "url": "https://www.zara.com/us/en/satin-effect-slip-dress-p78120201.html"
+    },
+    {
+      "id": "p015",
+      "sku": "18227297",
+      "name": "Slim Fit Suit Trousers",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "pants",
+      "gender": "men",
+      "color": "Black",
+      "price": 59.9,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviews": 2922,
+      "tags": [
+        "work"
+      ],
+      "stock": {
+        "XS": 24,
+        "S": 11,
+        "M": 0,
+        "L": 0,
+        "XL": 7,
+        "XXL": 15
+      },
+      "url": "https://www.zara.com/us/en/slim-fit-suit-trousers-p18227297.html"
+    },
+    {
+      "id": "p016",
+      "sku": "36605211",
+      "name": "Faux Leather Biker Jacket",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "jackets",
+      "gender": "women",
+      "color": "Black",
+      "price": 89.9,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviews": 1787,
+      "tags": [
+        "spring"
+      ],
+      "stock": {
+        "XS": 24,
+        "S": 2,
+        "M": 5,
+        "L": 8,
+        "XL": 20,
+        "XXL": 2
+      },
+      "url": "https://www.zara.com/us/en/faux-leather-biker-jacket-p36605211.html"
+    },
+    {
+      "id": "p017",
+      "sku": "90434232",
+      "name": "Cropped Poplin Shirt",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "tops",
+      "gender": "women",
+      "color": "Blue",
+      "price": 35.9,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviews": 2988,
+      "tags": [
+        "summer"
+      ],
+      "stock": {
+        "XS": 0,
+        "S": 3,
+        "M": 7,
+        "L": 21,
+        "XL": 2,
+        "XXL": 5
+      },
+      "url": "https://www.zara.com/us/en/cropped-poplin-shirt-p90434232.html"
+    },
+    {
+      "id": "p018",
+      "sku": "25957587",
+      "name": "Relaxed Fit Jogger Pants",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "pants",
+      "gender": "men",
+      "color": "Grey",
+      "price": 45.9,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviews": 977,
+      "tags": [
+        "casual"
+      ],
+      "stock": {
+        "XS": 24,
+        "S": 11,
+        "M": 18,
+        "L": 0,
+        "XL": 0,
+        "XXL": 16
+      },
+      "url": "https://www.zara.com/us/en/relaxed-fit-jogger-pants-p25957587.html"
+    },
+    {
+      "id": "p019",
+      "sku": "44574871",
+      "name": "Floral Print Mini Dress",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "dresses",
+      "gender": "women",
+      "color": "Red",
+      "price": 45.9,
+      "currency": "USD",
+      "rating": 3.7,
+      "reviews": 350,
+      "tags": [
+        "summer"
+      ],
+      "stock": {
+        "XS": 15,
+        "S": 23,
+        "M": 16,
+        "L": 24,
+        "XL": 5,
+        "XXL": 14
+      },
+      "url": "https://www.zara.com/us/en/floral-print-mini-dress-p44574871.html"
+    },
+    {
+      "id": "p020",
+      "sku": "73773903",
+      "name": "Oversized T-Shirt in Washed Black",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "tops",
+      "gender": "men",
+      "color": "Black",
+      "price": 18,
+      "currency": "USD",
+      "rating": 3.7,
+      "reviews": 186,
+      "tags": [
+        "casual",
+        "summer"
+      ],
+      "stock": {
+        "XS": 16,
+        "S": 11,
+        "M": 4,
+        "L": 0,
+        "XL": 13,
+        "XXL": 6
+      },
+      "url": "https://www.asos.com/asos-design/oversized-t-shirt-in-washed-black/prd/73773903"
+    },
+    {
+      "id": "p021",
+      "sku": "78683870",
+      "name": "Smart Skinny Wool Mix Blazer",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "jackets",
+      "gender": "men",
+      "color": "Navy",
+      "price": 95,
+      "currency": "USD",
+      "rating": 4.2,
+      "reviews": 1105,
+      "tags": [
+        "work"
+      ],
+      "stock": {
+        "XS": 12,
+        "S": 20,
+        "M": 14,
+        "L": 7,
+        "XL": 4,
+        "XXL": 5
+      },
+      "url": "https://www.asos.com/asos-design/smart-skinny-wool-mix-blazer/prd/78683870"
+    },
+    {
+      "id": "p022",
+      "sku": "99385941",
+      "name": "Wrap Front Midi Sundress",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "dresses",
+      "gender": "women",
+      "color": "Yellow",
+      "price": 52,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviews": 1415,
+      "tags": [
+        "summer"
+      ],
+      "stock": {
+        "XS": 19,
+        "S": 14,
+        "M": 7,
+        "L": 22,
+        "XL": 6,
+        "XXL": 8
+      },
+      "url": "https://www.asos.com/asos-design/wrap-front-midi-sundress/prd/99385941"
+    },
+    {
+      "id": "p023",
+      "sku": "21295031",
+      "name": "Wide Leg Cargo Trousers",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "pants",
+      "gender": "men",
+      "color": "Khaki",
+      "price": 48,
+      "currency": "USD",
+      "rating": 4,
+      "reviews": 2484,
+      "tags": [
+        "casual"
+      ],
+      "stock": {
+        "XS": 20,
+        "S": 14,
+        "M": 5,
+        "L": 10,
+        "XL": 22,
+        "XXL": 17
+      },
+      "url": "https://www.asos.com/asos-design/wide-leg-cargo-trousers/prd/21295031"
+    },
+    {
+      "id": "p024",
+      "sku": "23884550",
+      "name": "Muscle Fit Rib Polo",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "tops",
+      "gender": "men",
+      "color": "White",
+      "price": 26,
+      "currency": "USD",
+      "rating": 3.7,
+      "reviews": 2264,
+      "tags": [
+        "summer"
+      ],
+      "stock": {
+        "XS": 0,
+        "S": 0,
+        "M": 5,
+        "L": 12,
+        "XL": 17,
+        "XXL": 0
+      },
+      "url": "https://www.asos.com/asos-design/muscle-fit-rib-polo/prd/23884550"
+    },
+    {
+      "id": "p025",
+      "sku": "75623619",
+      "name": "Nike Club Fleece Hoodie",
+      "brand": "nike",
+      "retailer": "asos",
+      "type": "tops",
+      "gender": "unisex",
+      "color": "Grey",
+      "price": 60,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviews": 1228,
+      "tags": [
+        "casual",
+        "winter"
+      ],
+      "stock": {
+        "XS": 9,
+        "S": 24,
+        "M": 19,
+        "L": 23,
+        "XL": 8,
+        "XXL": 21
+      },
+      "url": "https://www.asos.com/asos-design/nike-club-fleece-hoodie/prd/75623619"
+    },
+    {
+      "id": "p026",
+      "sku": "69275511",
+      "name": "Puffer Jacket with Hood",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "jackets",
+      "gender": "women",
+      "color": "Red",
+      "price": 78,
+      "currency": "USD",
+      "rating": 4.1,
+      "reviews": 1999,
+      "tags": [
+        "winter"
+      ],
+      "stock": {
+        "XS": 2,
+        "S": 0,
+        "M": 13,
+        "L": 22,
+        "XL": 21,
+        "XXL": 0
+      },
+      "url": "https://www.asos.com/asos-design/puffer-jacket-with-hood/prd/69275511"
+    },
+    {
+      "id": "p027",
+      "sku": "27147576",
+      "name": "Tiered Maxi Dress in Ditsy Floral",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "dresses",
+      "gender": "women",
+      "color": "Blue",
+      "price": 64,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviews": 1682,
+      "tags": [
+        "summer"
+      ],
+      "stock": {
+        "XS": 8,
+        "S": 9,
+        "M": 3,
+        "L": 0,
+        "XL": 4,
+        "XXL": 18
+      },
+      "url": "https://www.asos.com/asos-design/tiered-maxi-dress-in-ditsy-floral/prd/27147576"
+    },
+    {
+      "id": "p028",
+      "sku": "31830271",
+      "name": "Levi's 501 Original Jeans",
+      "brand": "levis",
+      "retailer": "asos",
+      "type": "pants",
+      "gender": "men",
+      "color": "Blue",
+      "price": 98,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviews": 304,
+      "tags": [
+        "denim"
+      ],
+      "stock": {
+        "XS": 0,
+        "S": 19,
+        "M": 5,
+        "L": 0,
+        "XL": 14,
+        "XXL": 2
+      },
+      "url": "https://www.asos.com/asos-design/levis-501-original-jeans/prd/31830271"
+    },
+    {
+      "id": "p029",
+      "sku": "97833460",
+      "name": "Nike Windrunner Jacket",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "jackets",
+      "gender": "men",
+      "color": "Black",
+      "price": 110,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviews": 3654,
+      "tags": [
+        "running",
+        "spring"
+      ],
+      "stock": {
+        "XS": 22,
+        "S": 7,
+        "M": 4,
+        "L": 16,
+        "XL": 12,
+        "XXL": 15
+      },
+      "url": "https://www.nike.com/t/nike-windrunner-jacket/97833460"
+    },
+    {
+      "id": "p030",
+      "sku": "92731875",
+      "name": "Nike Tech Fleece Joggers",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "pants",
+      "gender": "men",
+      "color": "Grey",
+      "price": 120,
+      "currency": "USD",
+      "rating": 4,
+      "reviews": 1851,
+      "tags": [
+        "casual"
+      ],
+      "stock": {
+        "XS": 3,
+        "S": 21,
+        "M": 15,
+        "L": 9,
+        "XL": 20,
+        "XXL": 19
+      },
+      "url": "https://www.nike.com/t/nike-tech-fleece-joggers/92731875"
+    },
+    {
+      "id": "p031",
+      "sku": "72879837",
+      "name": "Nike Sportswear Club T-Shirt",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "tops",
+      "gender": "men",
+      "color": "White",
+      "price": 25,
+      "currency": "USD",
+      "rating": 4.3,
+      "reviews": 1217,
+      "tags": [
+        "casual",
+        "summer"
+      ],
+      "stock": {
+        "XS": 9,
+        "S": 0,
+        "M": 12,
+        "L": 10,
+        "XL": 14,
+        "XXL": 9
+      },
+      "url": "https://www.nike.com/t/nike-sportswear-club-t-shirt/72879837"
+    },
+    {
+      "id": "p032",
+      "sku": "66241133",
+      "name": "Nike Dri-FIT Challenger Shorts",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "pants",
+      "gender": "men",
+      "color": "Navy",
+      "price": 45,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviews": 1648,
+      "tags": [
+        "running",
+        "summer"
+      ],
+      "stock": {
+        "XS": 13,
+        "S": 0,
+        "M": 16,
+        "L": 4,
+        "XL": 22,
+        "XXL": 10
+      },
+      "url": "https://www.nike.com/t/nike-dri-fit-challenger-shorts/66241133"
+    },
+    {
+      "id": "p033",
+      "sku": "77611682",
+      "name": "Nike One Women's Leggings",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "pants",
+      "gender": "women",
+      "color": "Black",
+      "price": 55,
+      "currency": "USD",
+      "rating": 3.9,
+      "reviews": 3426,
+      "tags": [
+        "running"
+      ],
+      "stock": {
+        "XS": 6,
+        "S": 22,
+        "M": 0,
+        "L": 3,
+        "XL": 4,
+        "XXL": 23
+      },
+      "url": "https://www.nike.com/t/nike-one-womens-leggings/77611682"
+    },
+    {
+      "id": "p034",
+      "sku": "31218251",
+      "name": "Nike Storm-FIT Running Jacket",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "jackets",
+      "gender": "women",
+      "color": "Green",
+      "price": 150,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviews": 4024,
+      "tags": [
+        "running",
+        "winter"
+      ],
+      "stock": {
+        "XS": 6,
+        "S": 0,
+        "M": 12,
+        "L": 4,
+        "XL": 4,
+        "XXL": 18
+      },
+      "url": "https://www.nike.com/t/nike-storm-fit-running-jacket/31218251"
+    },
+    {
+      "id": "p035",
+      "sku": "38585810",
+      "name": "Nike Sportswear Essential Tank Dress",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "dresses",
+      "gender": "women",
+      "color": "Black",
+      "price": 50,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviews": 3021,
+      "tags": [
+        "summer"
+      ],
+      "stock": {
+        "XS": 14,
+        "S": 22,
+        "M": 11,
+        "L": 3,
+        "XL": 7,
+        "XXL": 2
+      },
+      "url": "https://www.nike.com/t/nike-sportswear-essential-tank-dress/38585810"
+    },
+    {
+      "id": "p036",
+      "sku": "18409231",
+      "name": "Nike Dri-FIT Miler Top",
+      "brand": "nike",
+      "retailer": "nike",
+      "type": "tops",
+      "gender": "women",
+      "color": "Pink",
+      "price": 35,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviews": 2990,
+      "tags": [
+        "running",
+        "summer"
+      ],
+      "stock": {
+        "XS": 21,
+        "S": 20,
+        "M": 13,
+        "L": 6,
+        "XL": 20,
+        "XXL": 21
+      },
+      "url": "https://www.nike.com/t/nike-dri-fit-miler-top/18409231"
+    },
+    {
+      "id": "p037",
+      "sku": "B0TSN2JF9F",
+      "name": "Nike Sportswear Club Fleece Crew",
+      "brand": "nike",
+      "retailer": "amazon",
+      "type": "tops",
+      "gender": "men",
+      "color": "Navy",
+      "price": 55,
+      "currency": "USD",
+      "rating": 4.2,
+      "reviews": 2151,
+      "tags": [
+        "winter"
+      ],
+      "stock": {
+        "XS": 15,
+        "S": 13,
+        "M": 3,
+        "L": 4,
+        "XL": 14,
+        "XXL": 18
+      },
+      "url": "https://www.amazon.com/nike-sportswear-club-fleece-crew/dp/B0TSN2JF9F"
+    },
+    {
+      "id": "p038",
+      "sku": "50409860",
+      "name": "Basic Heavy Weight T-Shirt",
+      "brand": "zara",
+      "retailer": "zara",
+      "type": "tops",
+      "gender": "men",
+      "color": "White",
+      "price": 19.9,
+      "currency": "USD",
+      "rating": 3.6,
+      "reviews": 720,
+      "tags": [
+        "casual",
+        "summer"
+      ],
+      "stock": {
+        "XS": 18,
+        "S": 18,
+        "M": 9,
+        "L": 11,
+        "XL": 23,
+        "XXL": 13
+      },
+      "url": "https://www.zara.com/us/en/basic-heavy-weight-t-shirt-p50409860.html"
+    },
+    {
+      "id": "p039",
+      "sku": "76308754",
+      "name": "Slim Fit Shirt in Pink",
+      "brand": "asos-design",
+      "retailer": "asos",
+      "type": "tops",
+      "gender": "men",
+      "color": "Pink",
+      "price": 30,
+      "currency": "USD",
+      "rating": 4,
+      "reviews": 2864,
+      "tags": [
+        "work"
+      ],
+      "stock": {
+        "XS": 7,
+        "S": 0,
+        "M": 2,
+        "L": 8,
+        "XL": 0,
+        "XXL": 13
+      },
+      "url": "https://www.asos.com/asos-design/slim-fit-shirt-in-pink/prd/76308754"
+    },
+    {
+      "id": "p040",
+      "sku": "B07W3R4Z8X",
+      "name": "Uniqlo Smart Ankle Pants",
+      "brand": "uniqlo",
+      "retailer": "amazon",
+      "type": "pants",
+      "gender": "unisex",
+      "color": "Black",
+      "price": 49.9,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviews": 1054,
+      "tags": [
+        "work"
+      ],
+      "stock": {
+        "XS": 14,
+        "S": 13,
+        "M": 13,
+        "L": 0,
+        "XL": 18,
+        "XXL": 11
+      },
+      "url": "https://www.amazon.com/uniqlo-smart-ankle-pants/dp/B07W3R4Z8X"
+    }
+  ]
+}
